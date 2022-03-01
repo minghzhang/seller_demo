@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 1qaz@WSX
+    url: jdbc:mysql://127.0.0.1:3306/seller_demo?useUnicode=true&characterEncoding=utf8
+server:
+  port: 8888
